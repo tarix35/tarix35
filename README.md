@@ -1,19 +1,6 @@
-generador de markdown de perfil de github logotipo
-Generador de archivos README para perfiles de GitHub
-Destacar este repositorio
-20472
-Bifurcación en GitHub
-6282
 
-volver a editar
 
-Copiar-Markdown
 
-Descargar Markdown
-
-Descargar copia de seguridad
-
-reducción
 <h1 align="center">Hola 👋, soy tarix</h1>
 <h3 align="center">Un apasionado de la ingeniería informática de Argentina.</h3>
 
