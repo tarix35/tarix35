@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hola 👋, soy tarix</h1>
-<h3 align="center">Un apasionado de la ingeniería informática de Argentina.</h3>
+<h1 align="center">👾 TARIX PROFILE 👾x</h1>
+<h3 align="center">Estudiante de ingenieria en informatica.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarix35&label=Profile%20views&color=0e75b6&style=flat" alt="tarix35" /> </p>
 
