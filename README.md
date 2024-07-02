@@ -1,3 +1,19 @@
+generador de markdown de perfil de github logotipo
+Generador de archivos README para perfiles de GitHub
+Destacar este repositorio
+20472
+Bifurcación en GitHub
+6282
+
+volver a editar
+
+Copiar-Markdown
+
+Descargar Markdown
+
+Descargar copia de seguridad
+
+reducción
 <h1 align="center">Hola 👋, soy tarix</h1>
 <h3 align="center">Un apasionado de la ingeniería informática de Argentina.</h3>
 
@@ -5,9 +21,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarix35" alt="tarix35" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sssssssssssssssss" target="blank"><img src="https://img.shields.io/twitter/follow/sssssssssssssssss?logo=twitter&style=for-the-badge" alt="ssssssssssssssss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tarix35_oficial" target="blank"><img src="https://img.shields.io/twitter/follow/tarix35_oficial?logo=twitter&style=for-the-badge" alt="tarix35_oficial" /></a> </p>
 
-- 🔭 Ingeniería en Informática [estudiante](https://venialaum.unimoron.edu.ar/Carrera.aspx?uneCod=3&carCod=30&plan=2013&tipo=G)
+- 🔭 Ingeniería en Computación [estudiante](https://venialaum.unimoron.edu.ar/Carrera.aspx?uneCod=3&carCod=30&plan=2013&tipo=G)
 
 - 👯 Universidad de Morón [pasantía](https://unimoron.edu.ar/)
 
@@ -16,15 +32,15 @@
 - 📫 Cómo contactarme **tomrodriguez@unimoron.edu.ar**
 
 ### Publicaciones de blogs
-<!-- LISTA DE PUBLICACIONES DEL BLOG:INICIO -->
+<!-- BLOG-POST-LIST:START -->
 <!-- LISTA DE PUBLICACIONES DEL BLOG:FIN -->
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://codepen.io/tarix35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tarix35" height="30" width="40" /></a>
-<a href="https://dev.to/tarix35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarix35" altura="30" ancho="40" /></a>
-<a href="https://twitter.com/sssssssssssssssss" destino="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sssssssssssssssss" altura="30" ancho="40" /></a>
-<a href="https://linkedin.com/in/tarix35" destino="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarix35" altura="30" ancho="40" /></a>
+<a href="https://dev.to/tarix35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarix35" height="30" Español:
+<a href="https://twitter.com/tarix35_oficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarix35_oficial" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tarix35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarix35" altura="30" ancho="40" /></a>
 <a href="https://stackoverflow.com/users/tarix35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tarix35" altura="30" ancho="40" /></a>
 <a href="https://codesandbox.com/tarix35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tarix35" altura="30" ancho="40" /></a>
 <a href="https://kaggle.com/tarix35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tarix35" height="30" width="40" /></a>
@@ -51,3 +67,30 @@
 <p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=tarix35&show_icons=true&locale=es" alt="tarix35" /></p>
 
 <p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=tarix35&" alt="tarix35" /></p>
+
+Apoyo  🙏
+¿Estás utilizando la herramienta y estás satisfecho con ella para crear tu perfil de GitHub?
+Su amable apoyo permite que herramientas de código abierto como ésta sigan siendo gratuitas para otros.
+generador de archivos readme para perfiles de github y tweets
+Hazle saber al mundo cómo te sientes usando esta herramienta. Compártela con otros en Twitter.
+Consejo 💰
+Comprar ko-fi para rahuldkjain
+Comprame un ko-fi
+Donar a Rahuldkjain a través de PayPal
+Comprar café rahuldkjain
+Invítame a un café
+generador de markdown de perfil de github logotipo
+Generador de archivos README para perfiles de GitHub
+Páginas
+Complementos
+Apoyo
+Acerca de
+Más
+Github
+Lanzamientos
+Asuntos
+Solicitudes de extracción
+Únase a la comunidad
+Discordia de la comunidad
+Desarrollado en India 🇮🇳
+Invítame a un café
