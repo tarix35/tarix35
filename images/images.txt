@@ -1,0 +1,10 @@
+//// Español: Esta carpeta se utilizara para guardar las imagenes del readme.md
+//// English: This folder will be used to store the images from the readme.md.
+//// Deutsch: Dieser Ordner wird verwendet, um die Bilder aus der readme.md zu speichern.
+//// Francés: Ce dossier sera utilisé pour stocker les images du readme.md.
+//// Italiano: Questa cartella sarà utilizzata per salvare le immagini dal readme.md.
+//// Portugués: Esta pasta será usada para armazenar as imagens do readme.md.
+//// Ruso: Эта папка будет использоваться для хранения изображений из readme.md.
+//// Chino (Mandarín): 这个文件夹将用于存储来自readme.md的图片。
+//// Japonés: このフォルダーはreadme.mdの画像を保存するために使用されます。
+//// Árabe: سيتم استخدام هذا المجلد لتخزين الصور من readme.md.
