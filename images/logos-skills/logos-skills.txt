@@ -1,0 +1,12 @@
+logos-skills.txt
+
+This folder contains logos of various technologies, programming languages, frameworks, tools, and software used in the project. The logos are used to illustrate the skills and technologies featured in the README, and are organized as images corresponding to each one.
+
+Technologies included:
+
+Programming languages: TypeScript, Python, Java, JavaScript, C, C++, Ruby, Crystal, PHP, etc.
+Development tools: VS Code, Eclipse, Unity, Unreal Engine, etc.
+Frameworks: React, Node.js, Bootstrap, etc.
+Databases: MySQL, SQL
+Others: Jenkins, Firebase, Selenium, Mocha, etc.
+Each image is named according to the technology name, making it easy to use in the README.
