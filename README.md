@@ -1,4 +1,4 @@
-<h1 align="center"> Hello folks, I'm Tarix! 🚀</h1>
+<h1 align="center">Hello folks, I'm Tarix! 🚀</h1>
 
 <!-- Cover Image -->
 <div align="center">
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <!-- About Me -->
 <h2 align="center">🧑‍🚀 About Me</h2>
@@ -37,7 +37,7 @@
 🔍 Constantly learning <strong>new frameworks, tools, and technologies</strong>
 </p>
 
-<br><br>
+<br>
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 My Stats</h2>
@@ -46,7 +46,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarix35&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
-<br><br>
+<br>
+
+<!-- GitHub Contributions Snake -->
+<h2 align="center">🐍 Contribution Activity</h2>
+<div align="center">
+  <img src="https://github.com/tarix35/tarix35/blob/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br>
 
 <!-- Featured Projects -->
 <h2 align="center">📌 Featured Projects</h2>
@@ -59,7 +67,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -67,7 +75,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tarix35&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<br><br>
+<br>
 
 <!-- Random Dev Quote & Top Contributed Repo -->
 <h2 align="center">🖍 Random Dev Quote & 💝 Top Contributed Repo</h2>
@@ -82,13 +90,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br><br>
-
-<!-- Visit Counter -->
-<div align="center">
-  <p>⚡ The visitor counter is under development and will be available soon! Stay tuned! ⚡</p>
 </div>
 
 <br>
